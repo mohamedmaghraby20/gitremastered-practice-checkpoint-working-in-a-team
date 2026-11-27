@@ -3,3 +3,4 @@
 Recipes:
 - soup.md
 - bread.md
+- tea.md
